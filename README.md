@@ -1,2 +1,2 @@
 # demo-porftolio-page
-made a demo portfolio page with html and css
+I made a simple web app(a demo portfolio page) with html and css.
